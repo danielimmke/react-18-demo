@@ -10,9 +10,9 @@ As of this writing, React 18 has not released yet. React 18 is in beta as of Nov
 
 **npm**
 ```
-npm install react@beta react-dom@beta
+npm install react@rc react-dom@rc
 ```
 **yarn**
 ```
-yarn add react@beta react-dom@beta
+yarn add react@rc react-dom@rc
 ```

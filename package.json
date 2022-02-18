@@ -8,8 +8,8 @@
     "@testing-library/user-event": "^13.5.0",
     "cors": "^2.8.5",
     "express": "^4.17.3",
-    "react": "^18.0.0-beta-24dd07bd2-20211208",
-    "react-dom": "^18.0.0-beta-24dd07bd2-20211208",
+    "react": "^18.0.0-rc.0",
+    "react-dom": "^18.0.0-rc.0",
     "react-scripts": "5.0.0",
     "swr": "^1.2.1",
     "web-vitals": "^2.1.4"
